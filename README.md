@@ -1,24 +1,7 @@
 # curso-vue
 
-## Project setup
-```
-npm install
-```
+## Descrição
+Projeto de estudo do Curso Grauito de Vue 3 de Tiago Matos no Youtube.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Referências
+[Curso Gratuito Vue 3](https://www.youtube.com/playlist?list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w).
